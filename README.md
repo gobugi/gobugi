@@ -4,7 +4,8 @@
 - My educational background is in languages (mainly French and Korean).
 - My professional background is in the intelligence field.
 
-- ⚡ Fun fact **I enjoy playing most genres of music on the piano (especially jazz).**
+
+- **I enjoy playing jazz on my piano.** 🎹
 
 
 <h3 align="left">Languages and Tools:</h3>
