@@ -4,8 +4,6 @@
 - My educational background is in languages (mainly French and Korean).
 - My professional background is in the intelligence field.
 
-
-
 - I enjoy playing the piano. 🎹
 
 
