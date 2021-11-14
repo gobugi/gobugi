@@ -1,5 +1,6 @@
 <h1 align="left">Hello there, I'm Johnny</h1>
 
+
 - Current student at App Academy
 - My educational background is in languages (mainly French and Korean).
 - My professional background is in the intelligence field.
