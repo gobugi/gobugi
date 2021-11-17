@@ -2,8 +2,15 @@
 
 
 - Full-stack web developer
-- My educational background: App Academy (2021) - 1000+ hr course with <3% acceptance rate, University of Hawaii (2018) - BA French, Minor Korean.
-- My professional background is in the intelligence field.
+- Education: 
+  - App Academy (2021) - 1000+ hr course with <3% acceptance rate, 
+  - University of Hawaii (2018) - BA French, Minor Korean.
+- Work Experience:
+  - US Navy & National Security Agency (2010 - 2016)
+    - Cryptologic Technician (Collection)
+    - Signals Intelligence Geospatial Analyst
+    - Cyber Program Assistant Manager  
+            
 - I enjoy playing the piano. 🎹
 
 <h3 align="left">Languages and Tools:</h3>
