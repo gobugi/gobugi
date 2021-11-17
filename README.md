@@ -1,8 +1,8 @@
 <h1 align="left">Hello there, I'm Johnny</h1>
 
 
-- Current student at App Academy
-- My educational background is in languages (mainly French and Korean).
+- Full-stack web developer
+- My educational background: App Academy (2021) - 1000+ hr course with <3% acceptance rate, University of Hawaii (2018) - BA French, Minor Korean.
 - My professional background is in the intelligence field.
 - I enjoy playing the piano. 🎹
 
