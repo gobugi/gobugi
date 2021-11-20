@@ -1,5 +1,6 @@
 <h1 align="left">Hello there, I'm Johnny</h1>
 
+
 - Full-stack web developer
 - Education: 
   - App Academy (2021) - 1000+ hr full-stack programming course with <3% acceptance rate, 
