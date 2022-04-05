@@ -6,11 +6,9 @@
   - App Academy (2021) - 1000+ hr full-stack programming course with <3% acceptance rate, 
   - University of Hawaii (2018) - BA French, Minor Korean.
 - Work Experience:
-  - US Navy (2010 - 2016)
     - Cryptologic Technician (Collection)
     - Signals Intelligence Geospatial Analyst
     - Cyber Program Assistant Manager  
-            
             
 - I enjoy playing the piano. 🎹
 
