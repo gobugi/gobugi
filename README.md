@@ -2,9 +2,10 @@
 
 - Full-stack web developer
 - Education: 
-  - App Academy (2021) - 1000+ hr full-stack programming course with <3% acceptance rate, 
+  - Western Governors University (2024) - BS Computer Science.
   - University of Hawaii (2018) - BA French, Minor Korean.
 - Work Experience:
+    - Software Engineer / Quality Assurance Lead
     - Cryptologic Technician (Collection)
     - Signals Intelligence Geospatial Analyst
     - Cyber Program Assistant Manager  
