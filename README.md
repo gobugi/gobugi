@@ -1,4 +1,4 @@
-<h1 align="left">Hello there, I'm Johnny</h1>
+<h1 align="left">Hello there, I'm John</h1>
 
 - Full-stack web developer
 - Education: 
